@@ -4,7 +4,7 @@ import { View, Text,StyleSheet } from 'react-native'
 const HomeScreen = ({ navigation }) => {
   return (
     <View>
-      <Text>ho</Text>
+      <Text>home</Text>
     </View>
   )
 }

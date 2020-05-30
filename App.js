@@ -17,21 +17,14 @@ import Combo from "./pages/Combo";
 import Kid from "./pages/Kid";
 import Women from "./pages/Women";
 import HomeScreen from "./pages/HomeScreen";
+import SettingsScreen from "./pages/SettingScreen"
 
 
 
 
 
 
-function SettingsScreen({ navigation }) {
-  return (
-    <View style={{ flex: 1}}>
-     
-      <Text>Electronics</Text>
-    
-    </View>
-  );
-}
+
 
 function Menwear({ navigation }) {
   return (
