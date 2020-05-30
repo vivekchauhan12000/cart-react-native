@@ -16,19 +16,12 @@ import Herbal from "./pages/Herbal";
 import Combo from "./pages/Combo";
 import Kid from "./pages/Kid";
 import Women from "./pages/Women";
+import HomeScreen from "./pages/HomeScreen";
 
 
 
 
-function HomeScreen({ navigation }) {
-  return (
-    <View style={{ flex: 1 }}>
-      
-      <Text>Home!</Text>
-    
-    </View>
-  );
-}
+
 
 function SettingsScreen({ navigation }) {
   return (
